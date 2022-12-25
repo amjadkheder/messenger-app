@@ -81,6 +81,11 @@
 		95AE0D5029585EBB00314DB7 = {
 			isa = PBXGroup;
 			children = (
+				95AE0D932958600600314DB7 /* resources */,
+				95AE0D9229585FF000314DB7 /* view models */,
+				95AE0D9129585FD800314DB7 /* models */,
+				95AE0D8F29585F7A00314DB7 /* controllers */,
+				95AE0D9029585FB200314DB7 /* views */,
 				95AE0D5B29585EBB00314DB7 /* massenger app */,
 				95AE0D7529585ECA00314DB7 /* massenger appTests */,
 				95AE0D7F29585ECA00314DB7 /* massenger appUITests */,
@@ -128,6 +133,41 @@
 				95AE0D8229585ECA00314DB7 /* massenger_appUITestsLaunchTests.swift */,
 			);
 			path = "massenger appUITests";
+			sourceTree = "<group>";
+		};
+		95AE0D8F29585F7A00314DB7 /* controllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = controllers;
+			sourceTree = "<group>";
+		};
+		95AE0D9029585FB200314DB7 /* views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		95AE0D9129585FD800314DB7 /* models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = models;
+			sourceTree = "<group>";
+		};
+		95AE0D9229585FF000314DB7 /* view models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "view models";
+			sourceTree = "<group>";
+		};
+		95AE0D932958600600314DB7 /* resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
